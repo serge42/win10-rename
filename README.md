@@ -30,3 +30,9 @@ Replacing all dots (.) in filenames except the final one delimiting the extensio
 For now, it is not possible to group flag arguments. E.g. rename.py -nze \<arg1\> \<arg2\> does not work; use rename.py -n -z -e \<arg1\> \<arg2\> instead.
 
 This may be improved in the future, if I find it to be too much of an annoyance.
+
+Fell free to report any other bugs or limitations.
+
+## License
+
+This software is provided under the MIT license, without warranty of any kind.
